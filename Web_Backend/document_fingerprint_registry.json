@@ -1,0 +1,44 @@
+{
+  "documents": [
+    {
+      "documentId": "DOC-001",
+      "filename": "document.pdf",
+      "storageLocation": "./secure_storage/[encrypted]",
+      "cryptographicHash": "08d2fbc96b6487fede7d29ab96fdd5f1571776c77cdf19ba2d23e8667850d47b",
+      "algorithm": "SHA-256",
+      "registeredAt": "2026-02-03T04:05:20.234Z",
+      "lastVerified": "2026-02-03T08:48:27.083Z",
+      "status": "VERIFIED"
+    },
+    {
+      "documentId": "DOC-1770108377100",
+      "filename": "HackElite 26' Problem Statements.pdf",
+      "storageLocation": "./secure_storage/[encrypted]",
+      "cryptographicHash": "15ab4b75fc0bbf0fb9c1bd2f271982e22974e09d744a832b200b05bb58a26f47",
+      "algorithm": "SHA-256",
+      "registeredAt": "2026-02-03T08:46:17.100Z",
+      "lastVerified": "2026-02-03T08:46:17.100Z",
+      "status": "REGISTERED"
+    },
+    {
+      "documentId": "DOC-1770108500452",
+      "filename": "negesh_profile_A4_portrait.pdf",
+      "storageLocation": "./secure_storage/[encrypted]",
+      "cryptographicHash": "9a78b83cb4d7375f68e06f2bc8a336611b8add8e6d75fb28a65a509addd86479",
+      "algorithm": "SHA-256",
+      "registeredAt": "2026-02-03T08:48:20.452Z",
+      "lastVerified": "2026-02-03T08:48:20.452Z",
+      "status": "REGISTERED"
+    },
+    {
+      "documentId": "DOC-1770108665967",
+      "filename": "HackElite 26' Problem Statements.pdf",
+      "storageLocation": "./secure_storage/[encrypted]",
+      "cryptographicHash": "15ab4b75fc0bbf0fb9c1bd2f271982e22974e09d744a832b200b05bb58a26f47",
+      "algorithm": "SHA-256",
+      "registeredAt": "2026-02-03T08:51:05.967Z",
+      "lastVerified": "2026-02-03T08:51:05.967Z",
+      "status": "REGISTERED"
+    }
+  ]
+}

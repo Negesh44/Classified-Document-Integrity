@@ -1,0 +1,14 @@
+{
+  "admin": {
+    "role": "ADMIN",
+    "clearanceLevel": 3
+  },
+  "officer": {
+    "role": "OFFICER",
+    "clearanceLevel": 2
+  },
+  "auditor": {
+    "role": "AUDITOR",
+    "clearanceLevel": 1
+  }
+}
