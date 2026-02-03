@@ -363,6 +363,20 @@
       "requiredClearance": 2,
       "previousHash": "65a7725d03421aca6c304edd130fe94e0cdb9bef78bfd5697ee281fc9d8aed38",
       "currentHash": "49ca27a70ac06090f02038cbe6429435f6234dc32db904081d6391496095acbb"
+    },
+    {
+      "index": 27,
+      "timestamp": "2026-02-03T09:11:51.522Z",
+      "username": "admin",
+      "userRole": "ADMIN",
+      "clearanceLevel": 3,
+      "action": "VIEW_ATTEMPT",
+      "status": "GRANTED",
+      "approvalId": "APR-4248",
+      "verifiedBy": "System",
+      "requiredClearance": 2,
+      "previousHash": "49ca27a70ac06090f02038cbe6429435f6234dc32db904081d6391496095acbb",
+      "currentHash": "75efe9509bc9f8cbe8904a880d8c7483c65d454486b2cdbc77e3113e37b8bf55"
     }
   ]
 }
